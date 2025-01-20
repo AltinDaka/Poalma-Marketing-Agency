@@ -14,10 +14,17 @@ Contact Page: Features contact details and an easy-to-use form for inquiries, ma
 
 Technologies Used
 HTML5: For structuring the website content.
+
 CSS3: For styling and layout customization.
+
 Bootstrap 5: For responsive design and component-based UI development.
+
 JavaScript: For interactivity and dynamic functionalities.
+
 Google Fonts: To enhance typography and aesthetics.
+
 AOS Animation Library: For smooth, visually appealing animations.
+
 Glightbox: For creating elegant and responsive image modals.
+
 Swiper: For implementing sleek and intuitive sliders.
