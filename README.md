@@ -13,6 +13,7 @@ Responsive Design: Fully optimized for a seamless browsing experience on desktop
 Contact Page: Features contact details and an easy-to-use form for inquiries, making communication straightforward and efficient.
 
 Technologies Used
+
 HTML5: For structuring the website content.
 
 CSS3: For styling and layout customization.
